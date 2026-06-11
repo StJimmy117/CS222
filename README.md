@@ -15,4 +15,4 @@ Run the script with the article name as command-line arguments:
 ```
 
 ## Authors
-- CS222 Student Team
+- Atticus Hewlate
